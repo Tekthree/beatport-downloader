@@ -1,0 +1,21 @@
+=== Beatport Selector Test Summary ===
+
+✓ SUCCESS - track_containers:
+  Found: 25 element(s)
+
+✓ SUCCESS - track_name:
+  Found: 1 element(s)
+
+✓ SUCCESS - artist_name:
+  Found: 1 element(s)
+
+✓ SUCCESS - download_button:
+  Found: 1 element(s)
+
+✗ FAILED - next_button:
+  Found: 0 element(s)
+
+=== Summary Statistics ===
+Total selectors tested: 5
+Successful: 4 (80.0%)
+Failed: 1 (20.0%)

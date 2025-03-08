@@ -1,0 +1,53 @@
+{
+  "track_containers": [
+    "[data-testid='library-tracks-table-row']",
+    "[data-testid='tracks-list-item']",
+    ".Tables-shared-style__Row-sc-792178d5-3",
+    ".LibraryTable-style__Row-sc-5a1def1b-3",
+    ".TracksList-style__Item-sc-921ce1b-1",
+    ".Lists-shared-style__Item-sc-d366b33c-6"
+  ],
+  "track_name": [
+    ".Tables-shared-style__ReleaseName-sc-792178d5-4",
+    "[data-testid='track-title']",
+    "[data-testid='track-name']",
+    ".LibraryTable-style__ReleaseName-sc-5a1def1b-4",
+    ".TracksList-style__TrackName-sc-921ce1b-0",
+    ".Lists-shared-style__ItemName-sc-d366b33c-7",
+    "a[href*='/track/'][title]"
+  ],
+  "artist_name": [
+    "a[href*='/artist/']",
+    "[data-testid='artist-name']",
+    ".ArtistNames-sc-72fc6023-0 a",
+    ".Marquee-style__MarqueeElement-sc-d1a627da-0 a[href*='/artist/']"
+  ],
+  "download_button": [
+    "svg[data-testid='icon-re-download']",
+    "svg[data-testid='icon-download']",
+    "svg path[stroke='#39C0DE']",
+    "svg path[fill='#39C0DE']",
+    "button[data-testid*='download']",
+    "button.download-button",
+    ".download-actions button",
+    "button[title*='Download']"
+  ],
+  "pagination": [
+    "[data-testid='pagination-container']",
+    ".Tables-shared-style__PageWrapper-sc-792178d5-9",
+    ".Pager-style__PageWrapper-sc-11m4x1c-0",
+    ".pagination"
+  ],
+  "next_button": [
+    "a[data-testid='pagination-next']",
+    "a[aria-label='Next page']",
+    "a.pagination-next",
+    "a:has(span:contains('Next'))",
+    "a[contains(@class, 'Pager-style__Page') and .//span[text()='Next']]"
+  ],
+  "download_popup_buttons": [
+    "button[data-testid='download-popup-download-button']",
+    ".DownloadPopup-styles__ConfirmButton-sc-d1ba1a0d-5",
+    "button:contains('Download')"
+  ]
+}

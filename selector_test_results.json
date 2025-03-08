@@ -1,0 +1,32 @@
+{
+  "track_containers": {
+    "success": true,
+    "count": 25,
+    "working_selector": null,
+    "error": null
+  },
+  "track_name": {
+    "success": true,
+    "count": 1,
+    "working_selector": null,
+    "error": null
+  },
+  "artist_name": {
+    "success": true,
+    "count": 1,
+    "working_selector": null,
+    "error": null
+  },
+  "download_button": {
+    "success": true,
+    "count": 1,
+    "working_selector": null,
+    "error": null
+  },
+  "next_button": {
+    "success": false,
+    "count": 0,
+    "working_selector": null,
+    "error": null
+  }
+}
