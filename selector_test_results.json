@@ -1,32 +1,88 @@
 {
-  "track_containers": {
-    "success": true,
-    "count": 25,
-    "working_selector": null,
-    "error": null
+  "large_screen": {
+    "track_containers": {
+      "success": true,
+      "selector_used": null,
+      "error": null,
+      "count": 1,
+      "screen_size": "large"
+    },
+    "track_name": {
+      "success": true,
+      "selector_used": null,
+      "error": null,
+      "count": 1,
+      "screen_size": "large"
+    },
+    "artist_name": {
+      "success": true,
+      "selector_used": null,
+      "error": null,
+      "count": 2,
+      "screen_size": "large"
+    },
+    "download_button": {
+      "success": true,
+      "selector_used": null,
+      "error": null,
+      "count": 1,
+      "screen_size": "large"
+    },
+    "next_button": {
+      "success": true,
+      "count": 0,
+      "error": "Pagination not tested - only 1 tracks found",
+      "screen_size": "large",
+      "selector_used": null
+    }
   },
-  "track_name": {
-    "success": true,
-    "count": 1,
-    "working_selector": null,
-    "error": null
+  "small_screen": {
+    "track_containers": {
+      "success": true,
+      "selector_used": null,
+      "error": null,
+      "count": 1,
+      "screen_size": "small"
+    },
+    "track_name": {
+      "success": true,
+      "selector_used": null,
+      "error": null,
+      "count": 1,
+      "screen_size": "small"
+    },
+    "artist_name": {
+      "success": true,
+      "selector_used": null,
+      "error": null,
+      "count": 2,
+      "screen_size": "small"
+    },
+    "download_button": {
+      "success": true,
+      "selector_used": null,
+      "error": null,
+      "count": 1,
+      "screen_size": "small"
+    },
+    "next_button": {
+      "success": true,
+      "count": 0,
+      "error": "Pagination not tested - only 1 tracks found",
+      "screen_size": "small",
+      "selector_used": null
+    }
   },
-  "artist_name": {
-    "success": true,
-    "count": 1,
-    "working_selector": null,
-    "error": null
-  },
-  "download_button": {
-    "success": true,
-    "count": 1,
-    "working_selector": null,
-    "error": null
-  },
-  "next_button": {
-    "success": false,
-    "count": 0,
-    "working_selector": null,
-    "error": null
+  "timestamp": "2025-03-08T10:28:14.019677",
+  "url_tested": "https://www.beatport.com/library/downloads",
+  "screen_sizes_tested": {
+    "large": {
+      "width": 1920,
+      "height": 1080
+    },
+    "small": {
+      "width": 768,
+      "height": 900
+    }
   }
 }

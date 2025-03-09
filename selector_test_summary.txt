@@ -1,21 +1,42 @@
 === Beatport Selector Test Summary ===
 
+=== large_screen Screen Results ===
+
 ✓ SUCCESS - track_containers:
-  Found: 25 element(s)
+  Found: 1 element(s)
 
 ✓ SUCCESS - track_name:
   Found: 1 element(s)
 
 ✓ SUCCESS - artist_name:
-  Found: 1 element(s)
+  Found: 2 element(s)
 
 ✓ SUCCESS - download_button:
   Found: 1 element(s)
 
-✗ FAILED - next_button:
+✓ SUCCESS - next_button:
   Found: 0 element(s)
+  Error: Pagination not tested - only 1 tracks found
+
+=== small_screen Screen Results ===
+
+✓ SUCCESS - track_containers:
+  Found: 1 element(s)
+
+✓ SUCCESS - track_name:
+  Found: 1 element(s)
+
+✓ SUCCESS - artist_name:
+  Found: 2 element(s)
+
+✓ SUCCESS - download_button:
+  Found: 1 element(s)
+
+✓ SUCCESS - next_button:
+  Found: 0 element(s)
+  Error: Pagination not tested - only 1 tracks found
 
 === Summary Statistics ===
-Total selectors tested: 5
-Successful: 4 (80.0%)
-Failed: 1 (20.0%)
+Total selectors tested: 10
+Successful: 10 (100.0%)
+Failed: 0 (0.0%)

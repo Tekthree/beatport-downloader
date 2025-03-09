@@ -1,0 +1,3 @@
+[console_scripts]
+beatport-auto = beatport_auto.main:main
+beatport-test = beatport_auto.test_selectors:main

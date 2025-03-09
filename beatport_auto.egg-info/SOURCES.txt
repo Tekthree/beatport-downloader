@@ -1,0 +1,23 @@
+Beatport Track Finder.spec
+LICENSE
+MANIFEST.in
+README.md
+beatport.spec
+installer.iss
+preferences.json
+pyproject.toml
+requirements.txt
+selector_test_report.json
+selector_test_results.json
+selector_test_summary.txt
+setup.py
+beatport_auto/__init__.py
+beatport_auto/__main__.py
+beatport_auto/main.py
+beatport_auto/test_selectors.py
+beatport_auto.egg-info/PKG-INFO
+beatport_auto.egg-info/SOURCES.txt
+beatport_auto.egg-info/dependency_links.txt
+beatport_auto.egg-info/entry_points.txt
+beatport_auto.egg-info/requires.txt
+beatport_auto.egg-info/top_level.txt

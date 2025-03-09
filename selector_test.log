@@ -13,3 +13,300 @@
 2025-03-07 17:20:24,341 - INFO - ✓ download_button: Found 1 element(s) with selector: None
 2025-03-07 17:21:36,575 - WARNING - ✗ next_button: Failed to find elements
 2025-03-07 17:21:36,581 - INFO - Results saved to selector_test_results.json and selector_test_summary.txt
+2025-03-07 20:34:33,591 - INFO - Loaded selectors from selectors.json
+2025-03-07 20:34:33,593 - INFO - ====== WebDriver manager ======
+2025-03-07 20:34:34,192 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 20:34:34,293 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 20:34:34,356 - INFO - Driver [/home/tekthree/.wdm/drivers/chromedriver/linux64/132.0.6834.159/chromedriver-linux64/chromedriver] found in cache
+2025-03-07 20:34:37,179 - INFO - Browser initialized successfully
+2025-03-07 20:34:38,643 - INFO - Please log in to Beatport manually. The test will continue after login...
+2025-03-07 20:34:53,360 - INFO - Login detected, continuing with tests...
+2025-03-07 20:34:56,153 - INFO - Navigated to Library page for testing
+2025-03-07 20:34:59,379 - INFO - ✓ track_containers: Found 25 element(s) with selector: None
+2025-03-07 20:34:59,625 - INFO - ✓ track_name: Found 1 element(s) with selector: None
+2025-03-07 20:34:59,645 - INFO - ✓ artist_name: Found 1 element(s) with selector: None
+2025-03-07 20:34:59,666 - INFO - ✓ download_button: Found 1 element(s) with selector: None
+2025-03-07 20:36:11,888 - WARNING - ✗ next_button: Failed to find elements
+2025-03-07 20:36:11,890 - INFO - Results saved to selector_test_results.json and selector_test_summary.txt
+2025-03-07 21:03:07,066 - INFO - Loaded selectors from selectors.json
+2025-03-07 21:03:07,067 - INFO - ====== WebDriver manager ======
+2025-03-07 21:03:07,401 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 21:03:07,510 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 21:03:07,596 - INFO - Driver [/home/tekthree/.wdm/drivers/chromedriver/linux64/132.0.6834.159/chromedriver-linux64/chromedriver] found in cache
+2025-03-07 21:03:09,651 - INFO - Browser initialized successfully
+2025-03-07 21:03:10,762 - INFO - Please log in to Beatport manually. The test will continue after login...
+2025-03-07 21:03:21,214 - INFO - Login detected, continuing with tests...
+2025-03-07 21:03:21,279 - INFO - Redirected to: https://www.beatport.com/
+2025-03-07 21:03:21,519 - INFO - Saved screenshot to login_redirect.png
+2025-03-07 21:03:21,546 - INFO - Current URL before navigation: https://www.beatport.com/
+2025-03-07 21:03:21,547 - INFO - Attempting to find and navigate to downloads page...
+2025-03-07 21:03:21,722 - INFO - Saved screenshot to before_downloads_nav.png
+2025-03-07 21:03:25,629 - INFO - Successfully navigated to downloads page via direct URL
+2025-03-07 21:03:30,639 - INFO - Current URL after navigation: https://www.beatport.com/library/downloads
+2025-03-07 21:03:30,825 - INFO - Testing on page: https://www.beatport.com/library/downloads
+2025-03-07 21:03:30,826 - INFO - Screenshot saved to: test_page.png
+2025-03-07 21:03:30,840 - INFO - Page source saved to: page_source.html
+2025-03-07 21:05:33,156 - INFO - Loaded selectors from selectors.json
+2025-03-07 21:05:33,158 - INFO - ====== WebDriver manager ======
+2025-03-07 21:05:33,287 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 21:05:33,388 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 21:05:33,471 - INFO - Driver [/home/tekthree/.wdm/drivers/chromedriver/linux64/132.0.6834.159/chromedriver-linux64/chromedriver] found in cache
+2025-03-07 21:05:34,652 - INFO - Browser initialized successfully
+2025-03-07 21:05:35,989 - INFO - Please log in to Beatport manually. The test will continue after login...
+2025-03-07 21:05:44,128 - INFO - Login detected, continuing with tests...
+2025-03-07 21:05:44,164 - INFO - Redirected to: https://www.beatport.com/
+2025-03-07 21:05:44,454 - INFO - Saved screenshot to login_redirect.png
+2025-03-07 21:05:44,486 - INFO - Current URL before navigation: https://www.beatport.com/
+2025-03-07 21:05:44,486 - INFO - Attempting to find and navigate to downloads page...
+2025-03-07 21:05:44,658 - INFO - Saved screenshot to before_downloads_nav.png
+2025-03-07 21:05:48,552 - INFO - Successfully navigated to downloads page via direct URL
+2025-03-07 21:05:53,562 - INFO - Current URL after navigation: https://www.beatport.com/library/downloads
+2025-03-07 21:05:53,785 - INFO - Testing on page: https://www.beatport.com/library/downloads
+2025-03-07 21:05:53,786 - INFO - Screenshot saved to: test_page.png
+2025-03-07 21:05:53,803 - INFO - Page source saved to: page_source.html
+2025-03-07 21:05:53,838 - INFO - ✓ track_containers: Found 1 element(s) with selector: None
+2025-03-07 21:05:53,880 - INFO - ✓ track_name: Found 1 element(s) with selector: None
+2025-03-07 21:05:53,905 - INFO - ✓ artist_name: Found 2 element(s) with selector: None
+2025-03-07 21:05:53,945 - INFO - ✓ download_button: Found 1 element(s) with selector: None
+2025-03-07 21:07:06,117 - WARNING - ✗ next_button: Failed to find elements
+2025-03-07 21:07:06,120 - INFO - Results saved to selector_test_results.json and selector_test_summary.txt
+2025-03-07 21:31:41,066 - INFO - Loaded selectors from selectors.json
+2025-03-07 21:31:41,067 - INFO - ====== WebDriver manager ======
+2025-03-07 21:31:41,212 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 21:31:41,336 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 21:31:41,422 - INFO - Driver [/home/tekthree/.wdm/drivers/chromedriver/linux64/132.0.6834.159/chromedriver-linux64/chromedriver] found in cache
+2025-03-07 21:31:42,605 - INFO - Browser initialized successfully
+2025-03-07 21:31:44,078 - INFO - Please log in to Beatport manually. The test will continue after login...
+2025-03-07 21:32:07,498 - INFO - Login detected, continuing with tests...
+2025-03-07 21:32:07,536 - INFO - Redirected to: https://www.beatport.com/
+2025-03-07 21:32:07,613 - INFO - Saved screenshot to login_redirect.png
+2025-03-07 21:32:07,662 - INFO - Current URL before navigation: https://www.beatport.com/
+2025-03-07 21:32:07,662 - INFO - Attempting to find and navigate to downloads page...
+2025-03-07 21:32:07,738 - INFO - Saved screenshot to before_downloads_nav.png
+2025-03-07 21:32:11,747 - INFO - Successfully navigated to downloads page via direct URL
+2025-03-07 21:32:16,758 - INFO - Current URL after navigation: https://www.beatport.com/library/downloads
+2025-03-07 21:32:16,762 - INFO - Testing on URL: https://www.beatport.com/library/downloads
+2025-03-07 21:32:16,762 - INFO - Starting large screen tests...
+2025-03-07 21:32:19,112 - INFO - Set window size to large screen (1920x1080)
+2025-03-07 21:32:19,112 - INFO - Screenshot saved to: large_screen_layout.png
+2025-03-07 21:32:19,128 - INFO - Page source for large screen saved to: large_screen_source.html
+2025-03-07 21:32:19,128 - INFO - Testing track_containers selector on large screen...
+2025-03-07 21:32:19,211 - ERROR - Error testing track_containers on large screen: 'SelectorsManager' object has no attribute 'get_last_successful_selector'
+2025-03-07 21:32:19,238 - INFO - Testing track_name selector on large screen...
+2025-03-07 21:32:19,257 - ERROR - Error testing track_name on large screen: 'SelectorsManager' object has no attribute 'get_last_successful_selector'
+2025-03-07 21:32:19,257 - INFO - Testing artist_name selector on large screen...
+2025-03-07 21:32:19,295 - ERROR - Error testing artist_name on large screen: 'SelectorsManager' object has no attribute 'get_last_successful_selector'
+2025-03-07 21:32:19,295 - INFO - Testing download_button selector on large screen...
+2025-03-07 21:32:19,324 - ERROR - Error testing download_button on large screen: 'SelectorsManager' object has no attribute 'get_last_successful_selector'
+2025-03-07 21:32:19,324 - INFO - Testing next_button selector on large screen...
+2025-03-07 21:33:31,415 - WARNING - No elements found for next_button on large screen
+2025-03-07 21:33:31,416 - INFO - Starting small screen tests...
+2025-03-07 21:33:33,507 - INFO - Set window size to small screen (768x900)
+2025-03-07 21:33:33,507 - INFO - Screenshot saved to: small_screen_layout.png
+2025-03-07 21:33:33,527 - INFO - Page source for small screen saved to: small_screen_source.html
+2025-03-07 21:33:33,527 - INFO - Testing track_containers selector on small screen...
+2025-03-07 21:33:43,864 - ERROR - Error testing track_containers on small screen: 'SelectorsManager' object has no attribute 'get_last_successful_selector'
+2025-03-07 21:33:43,887 - INFO - Testing track_name selector on small screen...
+2025-03-07 21:34:35,466 - ERROR - Error testing track_name on small screen: 'SelectorsManager' object has no attribute 'get_last_successful_selector'
+2025-03-07 21:34:35,467 - INFO - Testing artist_name selector on small screen...
+2025-03-07 21:34:35,496 - ERROR - Error testing artist_name on small screen: 'SelectorsManager' object has no attribute 'get_last_successful_selector'
+2025-03-07 21:34:35,497 - INFO - Testing download_button selector on small screen...
+2025-03-07 21:34:35,519 - ERROR - Error testing download_button on small screen: 'SelectorsManager' object has no attribute 'get_last_successful_selector'
+2025-03-07 21:34:35,520 - INFO - Testing next_button selector on small screen...
+2025-03-07 21:35:47,531 - WARNING - No elements found for next_button on small screen
+2025-03-07 21:35:47,539 - INFO - Results saved to selector_test_results.json and selector_test_summary.txt
+2025-03-07 21:55:17,517 - INFO - Loaded selectors from selectors.json
+2025-03-07 21:55:17,520 - INFO - ====== WebDriver manager ======
+2025-03-07 21:55:17,746 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 21:55:17,847 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 21:55:17,987 - INFO - Driver [/home/tekthree/.wdm/drivers/chromedriver/linux64/132.0.6834.159/chromedriver-linux64/chromedriver] found in cache
+2025-03-07 21:55:19,460 - INFO - Browser initialized successfully
+2025-03-07 21:55:20,822 - INFO - Please log in to Beatport manually. The test will continue after login...
+2025-03-07 21:55:28,967 - INFO - Login detected, continuing with tests...
+2025-03-07 21:55:29,012 - INFO - Redirected to: https://www.beatport.com/
+2025-03-07 21:55:29,280 - INFO - Saved screenshot to login_redirect.png
+2025-03-07 21:55:29,318 - INFO - Current URL before navigation: https://www.beatport.com/
+2025-03-07 21:55:29,318 - INFO - Attempting to find and navigate to downloads page...
+2025-03-07 21:55:29,480 - INFO - Saved screenshot to before_downloads_nav.png
+2025-03-07 21:55:33,686 - INFO - Successfully navigated to downloads page via direct URL
+2025-03-07 21:55:38,700 - INFO - Current URL after navigation: https://www.beatport.com/library/downloads
+2025-03-07 21:55:38,706 - INFO - Testing on URL: https://www.beatport.com/library/downloads
+2025-03-07 21:55:38,706 - INFO - Starting large screen tests...
+2025-03-07 21:55:41,035 - INFO - Set window size to large screen (1920x1080)
+2025-03-07 21:55:41,035 - INFO - Screenshot saved to: large_screen_layout.png
+2025-03-07 21:55:41,055 - INFO - Page source for large screen saved to: large_screen_source.html
+2025-03-07 21:55:41,055 - INFO - Testing track_containers selector on large screen...
+2025-03-07 21:55:51,397 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 21:55:51,421 - INFO - Testing track_name selector on large screen...
+2025-03-07 21:56:01,768 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 21:56:01,768 - INFO - Testing artist_name selector on large screen...
+2025-03-07 21:56:01,805 - INFO - Successfully found 2 element(s) using selector: None
+2025-03-07 21:56:01,805 - INFO - Testing download_button selector on large screen...
+2025-03-07 21:56:01,835 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 21:56:01,835 - INFO - Testing next_button selector on large screen...
+2025-03-07 21:57:14,055 - WARNING - No elements found for next_button on large screen
+2025-03-07 21:57:14,055 - INFO - Starting small screen tests...
+2025-03-07 21:57:16,153 - INFO - Set window size to small screen (768x900)
+2025-03-07 21:57:16,154 - INFO - Screenshot saved to: small_screen_layout.png
+2025-03-07 21:57:16,171 - INFO - Page source for small screen saved to: small_screen_source.html
+2025-03-07 21:57:16,172 - INFO - Testing track_containers selector on small screen...
+2025-03-07 21:57:26,513 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 21:57:26,537 - INFO - Testing track_name selector on small screen...
+2025-03-07 21:57:36,867 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 21:57:36,867 - INFO - Testing artist_name selector on small screen...
+2025-03-07 21:57:36,902 - INFO - Successfully found 2 element(s) using selector: None
+2025-03-07 21:57:36,902 - INFO - Testing download_button selector on small screen...
+2025-03-07 21:57:36,934 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 21:57:36,934 - INFO - Testing next_button selector on small screen...
+2025-03-07 21:58:49,047 - WARNING - No elements found for next_button on small screen
+2025-03-07 21:58:49,052 - INFO - Results saved to selector_test_results.json and selector_test_summary.txt
+2025-03-07 22:00:26,143 - INFO - Starting selector tests...
+2025-03-07 22:00:26,143 - INFO - Testing on downloads page: True
+2025-03-07 22:00:26,144 - INFO - Loaded selectors from selectors.json
+2025-03-07 22:00:26,146 - INFO - ====== WebDriver manager ======
+2025-03-07 22:00:26,383 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 22:00:26,512 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 22:00:26,603 - INFO - Driver [/home/tekthree/.wdm/drivers/chromedriver/linux64/132.0.6834.159/chromedriver-linux64/chromedriver] found in cache
+2025-03-07 22:00:27,731 - INFO - Browser initialized successfully
+2025-03-07 22:00:28,996 - INFO - Please log in to Beatport manually. The test will continue after login...
+2025-03-07 22:00:46,285 - INFO - Login detected, continuing with tests...
+2025-03-07 22:00:46,342 - INFO - Redirected to: https://www.beatport.com/
+2025-03-07 22:00:46,538 - INFO - Saved screenshot to login_redirect.png
+2025-03-07 22:00:46,571 - INFO - Current URL before navigation: https://www.beatport.com/
+2025-03-07 22:00:46,572 - INFO - Attempting to find and navigate to downloads page...
+2025-03-07 22:00:46,722 - INFO - Saved screenshot to before_downloads_nav.png
+2025-03-07 22:00:51,585 - INFO - Successfully navigated to downloads page via direct URL
+2025-03-07 22:00:56,598 - INFO - Current URL after navigation: https://www.beatport.com/library/downloads
+2025-03-07 22:00:56,603 - INFO - Testing on URL: https://www.beatport.com/library/downloads
+2025-03-07 22:00:56,604 - INFO - Starting large screen tests...
+2025-03-07 22:00:58,882 - INFO - Set window size to large screen (1920x1080)
+2025-03-07 22:00:58,882 - INFO - Screenshot saved to: large_screen_layout.png
+2025-03-07 22:00:58,899 - INFO - Page source for large screen saved to: large_screen_source.html
+2025-03-07 22:00:58,899 - INFO - Testing track_containers selector on large screen...
+2025-03-07 22:01:09,265 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:01:09,290 - INFO - Testing track_name selector on large screen...
+2025-03-07 22:01:19,619 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:01:19,619 - INFO - Testing artist_name selector on large screen...
+2025-03-07 22:01:19,655 - INFO - Successfully found 2 element(s) using selector: None
+2025-03-07 22:01:19,656 - INFO - Testing download_button selector on large screen...
+2025-03-07 22:01:19,684 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:01:19,684 - INFO - Testing next_button selector on large screen...
+2025-03-07 22:02:31,899 - WARNING - No elements found for next_button on large screen
+2025-03-07 22:02:31,899 - INFO - Starting small screen tests...
+2025-03-07 22:02:34,042 - INFO - Set window size to small screen (768x900)
+2025-03-07 22:02:34,042 - INFO - Screenshot saved to: small_screen_layout.png
+2025-03-07 22:02:34,057 - INFO - Page source for small screen saved to: small_screen_source.html
+2025-03-07 22:02:34,058 - INFO - Testing track_containers selector on small screen...
+2025-03-07 22:02:44,394 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:02:44,415 - INFO - Testing track_name selector on small screen...
+2025-03-07 22:02:54,790 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:02:54,790 - INFO - Testing artist_name selector on small screen...
+2025-03-07 22:02:54,821 - INFO - Successfully found 2 element(s) using selector: None
+2025-03-07 22:02:54,822 - INFO - Testing download_button selector on small screen...
+2025-03-07 22:02:54,844 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:02:54,844 - INFO - Testing next_button selector on small screen...
+2025-03-07 22:04:06,983 - WARNING - No elements found for next_button on small screen
+2025-03-07 22:04:06,984 - INFO - Results saved to selector_test_results.json and selector_test_summary.txt
+2025-03-07 22:04:07,089 - INFO - Tests completed. Check selector_test_report.json and selector_test_summary.txt for results
+2025-03-07 22:08:50,924 - INFO - Starting selector tests...
+2025-03-07 22:08:50,925 - INFO - Testing on downloads page: True
+2025-03-07 22:08:50,926 - INFO - Loaded selectors from selectors.json
+2025-03-07 22:08:50,927 - INFO - ====== WebDriver manager ======
+2025-03-07 22:08:51,078 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 22:08:51,163 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 22:08:51,268 - INFO - Driver [/home/tekthree/.wdm/drivers/chromedriver/linux64/132.0.6834.159/chromedriver-linux64/chromedriver] found in cache
+2025-03-07 22:08:52,552 - INFO - Browser initialized successfully
+2025-03-07 22:08:53,594 - INFO - Please log in to Beatport manually. The test will continue after login...
+2025-03-07 22:09:03,504 - INFO - Login detected, continuing with tests...
+2025-03-07 22:09:03,537 - INFO - Redirected to: https://www.beatport.com/
+2025-03-07 22:09:03,754 - INFO - Saved screenshot to login_redirect.png
+2025-03-07 22:09:03,782 - INFO - Current URL before navigation: https://www.beatport.com/
+2025-03-07 22:09:03,782 - INFO - Attempting to find and navigate to downloads page...
+2025-03-07 22:09:03,938 - INFO - Saved screenshot to before_downloads_nav.png
+2025-03-07 22:09:08,185 - INFO - Successfully navigated to downloads page via direct URL
+2025-03-07 22:09:13,199 - INFO - Current URL after navigation: https://www.beatport.com/library/downloads
+2025-03-07 22:09:13,206 - INFO - Testing on URL: https://www.beatport.com/library/downloads
+2025-03-07 22:09:13,206 - INFO - Starting large screen tests...
+2025-03-07 22:09:15,399 - INFO - Set window size to large screen (1920x1080)
+2025-03-07 22:09:15,399 - INFO - Screenshot saved to: large_screen_layout.png
+2025-03-07 22:09:15,417 - INFO - Page source for large screen saved to: large_screen_source.html
+2025-03-07 22:09:15,417 - INFO - Testing track_containers selector on large screen...
+2025-03-07 22:09:25,754 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:09:25,776 - INFO - Testing track_name selector on large screen...
+2025-03-07 22:09:36,129 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:09:36,129 - INFO - Testing artist_name selector on large screen...
+2025-03-07 22:09:36,165 - INFO - Successfully found 2 element(s) using selector: None
+2025-03-07 22:09:36,165 - INFO - Testing download_button selector on large screen...
+2025-03-07 22:09:36,196 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:09:36,196 - INFO - Testing next_button selector on large screen...
+2025-03-07 22:10:48,520 - WARNING - No elements found for next_button on large screen
+2025-03-07 22:10:48,520 - INFO - Starting small screen tests...
+2025-03-07 22:10:50,722 - INFO - Set window size to small screen (768x900)
+2025-03-07 22:10:50,723 - INFO - Screenshot saved to: small_screen_layout.png
+2025-03-07 22:10:50,738 - INFO - Page source for small screen saved to: small_screen_source.html
+2025-03-07 22:10:50,738 - INFO - Testing track_containers selector on small screen...
+2025-03-07 22:11:01,087 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:11:01,110 - INFO - Testing track_name selector on small screen...
+2025-03-07 22:11:11,455 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:11:11,455 - INFO - Testing artist_name selector on small screen...
+2025-03-07 22:11:11,485 - INFO - Successfully found 2 element(s) using selector: None
+2025-03-07 22:11:11,485 - INFO - Testing download_button selector on small screen...
+2025-03-07 22:11:11,507 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:11:11,507 - INFO - Testing next_button selector on small screen...
+2025-03-07 22:12:23,697 - WARNING - No elements found for next_button on small screen
+2025-03-07 22:12:23,703 - INFO - Results saved to selector_test_results.json and selector_test_summary.txt
+2025-03-07 22:12:23,930 - INFO - Tests completed. Check selector_test_report.json and selector_test_summary.txt for results
+2025-03-08 10:28:14,018 - INFO - Starting selector tests...
+2025-03-08 10:28:14,019 - INFO - Testing on downloads page: True
+2025-03-08 10:28:14,019 - INFO - Loaded selectors from selectors.json
+2025-03-08 10:28:14,020 - INFO - ====== WebDriver manager ======
+2025-03-08 10:28:14,156 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 10:28:14,249 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 10:28:14,311 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 10:28:14,522 - INFO - WebDriver version 132.0.6834.159 selected
+2025-03-08 10:28:14,526 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.159/linux64/chromedriver-linux64.zip
+2025-03-08 10:28:14,526 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.159/linux64/chromedriver-linux64.zip
+2025-03-08 10:28:14,603 - INFO - Driver downloading response is 200
+2025-03-08 10:28:14,832 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-08 10:28:15,232 - INFO - Driver has been saved in cache [/home/tekthree/.wdm/drivers/chromedriver/linux64/132.0.6834.159]
+2025-03-08 10:28:16,848 - INFO - Browser initialized successfully
+2025-03-08 10:28:18,319 - INFO - Please log in to Beatport manually. The test will continue after login...
+2025-03-08 10:28:27,772 - INFO - Login detected, continuing with tests...
+2025-03-08 10:28:27,802 - INFO - Redirected to: https://www.beatport.com/
+2025-03-08 10:28:28,049 - INFO - Saved screenshot to login_redirect.png
+2025-03-08 10:28:28,237 - INFO - Current URL before navigation: https://www.beatport.com/
+2025-03-08 10:28:28,237 - INFO - Attempting to find and navigate to downloads page...
+2025-03-08 10:28:28,428 - INFO - Saved screenshot to before_downloads_nav.png
+2025-03-08 10:28:33,543 - INFO - Successfully navigated to downloads page via direct URL
+2025-03-08 10:28:38,555 - INFO - Current URL after navigation: https://www.beatport.com/library/downloads
+2025-03-08 10:28:38,560 - INFO - Testing on URL: https://www.beatport.com/library/downloads
+2025-03-08 10:28:38,560 - INFO - Starting large screen tests...
+2025-03-08 10:28:40,732 - INFO - Set window size to large screen (1920x1080)
+2025-03-08 10:28:40,732 - INFO - Screenshot saved to: large_screen_layout.png
+2025-03-08 10:28:40,749 - INFO - Page source for large screen saved to: large_screen_source.html
+2025-03-08 10:28:40,749 - INFO - Testing track_containers selector on large screen...
+2025-03-08 10:28:51,157 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-08 10:28:51,191 - INFO - Found 1 tracks on large screen
+2025-03-08 10:28:51,191 - INFO - Testing track_name selector on large screen...
+2025-03-08 10:29:01,591 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-08 10:29:01,592 - INFO - Testing artist_name selector on large screen...
+2025-03-08 10:29:01,642 - INFO - Successfully found 2 element(s) using selector: None
+2025-03-08 10:29:01,642 - INFO - Testing download_button selector on large screen...
+2025-03-08 10:29:01,678 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-08 10:29:01,678 - INFO - Skipping pagination test - only 1 tracks found (need 10)
+2025-03-08 10:29:01,679 - INFO - Starting small screen tests...
+2025-03-08 10:29:03,873 - INFO - Set window size to small screen (768x900)
+2025-03-08 10:29:03,874 - INFO - Screenshot saved to: small_screen_layout.png
+2025-03-08 10:29:03,890 - INFO - Page source for small screen saved to: small_screen_source.html
+2025-03-08 10:29:03,890 - INFO - Testing track_containers selector on small screen...
+2025-03-08 10:29:14,233 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-08 10:29:14,255 - INFO - Found 1 tracks on small screen
+2025-03-08 10:29:14,256 - INFO - Testing track_name selector on small screen...
+2025-03-08 10:29:24,616 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-08 10:29:24,617 - INFO - Testing artist_name selector on small screen...
+2025-03-08 10:29:24,654 - INFO - Successfully found 2 element(s) using selector: None
+2025-03-08 10:29:24,655 - INFO - Testing download_button selector on small screen...
+2025-03-08 10:29:24,680 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-08 10:29:24,680 - INFO - Skipping pagination test - only 1 tracks found (need 10)
+2025-03-08 10:29:24,683 - INFO - Results saved to selector_test_results.json and selector_test_summary.txt
+2025-03-08 10:29:24,792 - INFO - Tests completed. Check selector_test_report.json and selector_test_summary.txt for results

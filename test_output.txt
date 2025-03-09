@@ -1,0 +1,60 @@
+2025-03-07 22:08:50,924 - INFO - Starting selector tests...
+2025-03-07 22:08:50,925 - INFO - Testing on downloads page: True
+2025-03-07 22:08:50,926 - INFO - Loaded selectors from selectors.json
+2025-03-07 22:08:50,927 - INFO - ====== WebDriver manager ======
+2025-03-07 22:08:51,078 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 22:08:51,163 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-07 22:08:51,268 - INFO - Driver [/home/tekthree/.wdm/drivers/chromedriver/linux64/132.0.6834.159/chromedriver-linux64/chromedriver] found in cache
+2025-03-07 22:08:52,552 - INFO - Browser initialized successfully
+2025-03-07 22:08:53,594 - INFO - Please log in to Beatport manually. The test will continue after login...
+2025-03-07 22:09:03,504 - INFO - Login detected, continuing with tests...
+2025-03-07 22:09:03,537 - INFO - Redirected to: https://www.beatport.com/
+2025-03-07 22:09:03,754 - INFO - Saved screenshot to login_redirect.png
+2025-03-07 22:09:03,782 - INFO - Current URL before navigation: https://www.beatport.com/
+2025-03-07 22:09:03,782 - INFO - Attempting to find and navigate to downloads page...
+2025-03-07 22:09:03,938 - INFO - Saved screenshot to before_downloads_nav.png
+2025-03-07 22:09:08,185 - INFO - Successfully navigated to downloads page via direct URL
+2025-03-07 22:09:13,199 - INFO - Current URL after navigation: https://www.beatport.com/library/downloads
+2025-03-07 22:09:13,206 - INFO - Testing on URL: https://www.beatport.com/library/downloads
+2025-03-07 22:09:13,206 - INFO - Starting large screen tests...
+2025-03-07 22:09:15,399 - INFO - Set window size to large screen (1920x1080)
+2025-03-07 22:09:15,399 - INFO - Screenshot saved to: large_screen_layout.png
+2025-03-07 22:09:15,417 - INFO - Page source for large screen saved to: large_screen_source.html
+2025-03-07 22:09:15,417 - INFO - Testing track_containers selector on large screen...
+2025-03-07 22:09:25,754 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:09:25,776 - INFO - Testing track_name selector on large screen...
+2025-03-07 22:09:36,129 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:09:36,129 - INFO - Testing artist_name selector on large screen...
+2025-03-07 22:09:36,165 - INFO - Successfully found 2 element(s) using selector: None
+2025-03-07 22:09:36,165 - INFO - Testing download_button selector on large screen...
+2025-03-07 22:09:36,196 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:09:36,196 - INFO - Testing next_button selector on large screen...
+2025-03-07 22:10:48,520 - WARNING - No elements found for next_button on large screen
+2025-03-07 22:10:48,520 - INFO - Starting small screen tests...
+2025-03-07 22:10:50,722 - INFO - Set window size to small screen (768x900)
+2025-03-07 22:10:50,723 - INFO - Screenshot saved to: small_screen_layout.png
+2025-03-07 22:10:50,738 - INFO - Page source for small screen saved to: small_screen_source.html
+2025-03-07 22:10:50,738 - INFO - Testing track_containers selector on small screen...
+2025-03-07 22:11:01,087 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:11:01,110 - INFO - Testing track_name selector on small screen...
+2025-03-07 22:11:11,455 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:11:11,455 - INFO - Testing artist_name selector on small screen...
+2025-03-07 22:11:11,485 - INFO - Successfully found 2 element(s) using selector: None
+2025-03-07 22:11:11,485 - INFO - Testing download_button selector on small screen...
+2025-03-07 22:11:11,507 - INFO - Successfully found 1 element(s) using selector: None
+2025-03-07 22:11:11,507 - INFO - Testing next_button selector on small screen...
+2025-03-07 22:12:23,697 - WARNING - No elements found for next_button on small screen
+2025-03-07 22:12:23,703 - INFO - Results saved to selector_test_results.json and selector_test_summary.txt
+2025-03-07 22:12:23,930 - INFO - Tests completed. Check selector_test_report.json and selector_test_summary.txt for results
+
+=== Selector Test Summary ===
+Total selectors tested: 10
+Successful: 8 (80.0%)
+Failed: 2 (20.0%)
+Detailed results saved to: selector_test_results.json
+Summary report saved to: selector_test_summary.txt
+2025-03-08 14:39:43,928 - INFO - Starting application test...
+2025-03-08 14:39:43,930 - INFO - Testing SelectorsManager functionality...
+2025-03-08 14:39:43,930 - ERROR - Error loading selectors: [Errno 2] No such file or directory: 'selectors.json'
+2025-03-08 14:39:43,930 - ERROR - Failed to load selectors
+2025-03-08 14:39:43,930 - ERROR - Selector test failed
